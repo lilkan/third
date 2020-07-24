@@ -1,0 +1,5 @@
+import "normalize.css"
+import "./layouts/main.scss"
+import "./components/header.scss"
+import "./components/tabs.scss"
+import "./components/about.scss"

@@ -1,0 +1,14 @@
+@import "../variables.scss";
+
+.tabs{
+    background-color: $beige;
+}
+.item {
+    display: inline-flex;
+}
+.link{
+    padding: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-right: 2px solid white;
+}
